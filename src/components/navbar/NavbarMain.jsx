@@ -40,7 +40,7 @@ const NavbarMain = () => {
         </div>
         <NavbarBtn />
       </div>
-      <div className="flex lg:hidden sm:block p-6 bg-black items-center justify-center rounded-full border-green-400 border-[2px]">
+      <div className="flex lg:hidden sm:block p-6  items-center justify-center rounded-full ">
         <NavbarToggler />
       </div>
     </nav>
