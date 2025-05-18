@@ -5,7 +5,7 @@ const NavbarBtn = () => {
   return (
     <div className="sm:hidden md:block mt-0.5   ">
       <a
-        href="https://wa.me/yourwhatsappphonenumber" // Replace with your WhatsApp number
+        href="https://wa.me/0767847059"
         target="_blank"
         rel="noopener noreferrer"
       >
