@@ -19,7 +19,7 @@ const NavbarLinks = () => {
               spy={true}
               duration={500}
               offset={-130}
-              className="cursor-pointer text-gray-700 hover:text-gray-900 transition-all duration-500"
+              className="cursor-pointer xl:text-white lg:text-white sm:text-gray-700 hover:text-gray-5 transition-all duration-500"
             >
               {link.link}
             </Link>
