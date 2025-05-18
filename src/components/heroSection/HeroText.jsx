@@ -70,7 +70,7 @@ const HeroText = () => {
         </div>
         <motion.button whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.8 }}>
           <a
-            href="tel:0767847059"
+            href="tel:+94715303304"
             className=" inline-block bg-green-300 hover:bg-green-400  drop-shadow-md  text-white font-semibold py-3 px-6 rounded-lg shadow-xl transition-all duration-300"
           >
             <p className="drop-shadow-md"> Call Our Hotline</p>
@@ -90,7 +90,7 @@ const HeroText = () => {
               Need help? Chat with us!
             </p>
             <a
-              href="https://wa.me/0767847059"
+              href="https://wa.me/+94767847059"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-green-500 hover:bg-green-600 text-white font-semibold py-2 px-4 rounded-md shadow transition"
